@@ -8,3 +8,4 @@ Torch
 Gym
 Scipy
 Vizdoomgym
+# Visualizing code is included in the visualize.py file.
