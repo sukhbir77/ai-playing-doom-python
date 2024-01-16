@@ -17,4 +17,4 @@ This repository features an AI model designed to play the iconic 2D video game D
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/AI-Playing-Doom.git
+   git clone https://github.com/sukhbir77/ai-playing-doom-python.git
